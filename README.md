@@ -59,6 +59,8 @@ endmodule
 ![Screenshot 2024-04-01 193443](https://github.com/SaiVishal1105/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742557/5e7b2da6-a227-4d07-a7b6-bcd4372122a2)
 
 **Timing Diagram**
+![Screenshot 2024-04-06 132325](https://github.com/SaiVishal1105/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742557/241b62dc-9436-4053-ac84-cb20aaed51e7)
+
 
 **Result:**
 
